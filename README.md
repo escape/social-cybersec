@@ -1,4 +1,4 @@
-# SOCIAL CYBERSEC: A Framework for digital resilience against extremist propaganda
+# SOCIAL CYBERSEC: A framework for digital resilience against extremist propaganda
 
 ## Introduction: The Need for Social Cybersecurity
 
